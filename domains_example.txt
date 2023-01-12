@@ -1,0 +1,8 @@
+# Change it for your needs
+
+google.com # Google
+ya.ru	   # Yandex
+yahoo.com
+
+non_existing_domain.try
+
