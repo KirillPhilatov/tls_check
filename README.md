@@ -10,9 +10,9 @@ every perl subprocess starts openssl subprocesses.
 
 ### Usage
 
-./async_tls_check.pl <path to file with domains list>
+./async_tls_check.pl \<path to file with domains list>
 
-Requires Perl and openssl uitility.
+Requires Perl and openssl utility.
 
 Dafault port - 443.
 
@@ -25,6 +25,6 @@ expiration date \t domain (name)
 
 ### TODO
 
-Maybe do not check domains which are not expired soon.
+Maybe do not check domains which are not expiring soon.
 
 Get info from previous run.
